@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c1acc1cd21b4d049b0cf52075f713b4, type: 3}
+  m_Name: G_TokenData
+  m_EditorClassIdentifier: 
+  tokenName: GFG
+  token: {fileID: 9178254128903547752, guid: 4313a9580999ca142b1a149c0acb1cdb, type: 3}
+  icon_1: {fileID: 21300000, guid: 096c96749926ace49a39b946bf8150c5, type: 3}
+  icon_2: {fileID: 21300000, guid: 264a8691fc53b6d4db62d2338b07d280, type: 3}
+  icon_3: {fileID: 21300000, guid: aa47a502f06eda3409f1500b14e34bfd, type: 3}
+  icon_4: {fileID: 21300000, guid: c6636a210234cc8489052ded586680b7, type: 3}
+  tokenId: 0
+  unitType: 1

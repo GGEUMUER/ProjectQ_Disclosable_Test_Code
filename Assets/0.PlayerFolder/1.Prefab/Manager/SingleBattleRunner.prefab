@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &501726362798644725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5107551700660158828}
+  - component: {fileID: 4675377872003779323}
+  m_Layer: 0
+  m_Name: SingleBattleRunner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5107551700660158828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501726362798644725}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.1526861, y: 0.48637533, z: -0.00798846}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4675377872003779323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501726362798644725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c0b1be64f1761845ba0e246acc22137, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  L0: 0
+  L1: 0
+  L2: 0
+  R0: 0
+  R1: 0
+  R2: 0
+  prefabMaps: []
+  defaultUnitPrefabs: {fileID: 5889705364432551020, guid: a585133aacb5c9f4cae54434dfef1320, type: 3}
+  defaultProjectilePrefab: {fileID: 2898323329292461368, guid: a37408d74f5eb9240b22b8470dd049c9, type: 3}
+  projecttilePrefabs:
+  - {fileID: 8690895998010249905, guid: 3a2eaadbd5621f44a97b382c8b755554, type: 3}
+  - {fileID: 2898323329292461368, guid: a37408d74f5eb9240b22b8470dd049c9, type: 3}
+  - {fileID: 6783202638856596709, guid: cea9afd024a3f9b469b2e8c05e12d4a2, type: 3}
+  - {fileID: 3781743087812904031, guid: f7f2737f0bacb9148916f0cf237c7a29, type: 3}
+  - {fileID: 11719716898045556, guid: 90df64dd94a9a4141b5bf894978a0894, type: 3}
+  - {fileID: 0}
+  - {fileID: 4266332866108731371, guid: 3df89e0392c4b764ca9b7269f6f7ce4a, type: 3}
+  battleObjDebugView: []
+  leftSlotOverrides:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  rightSlotOverrides:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  leftRows:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  rightRows:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  seed: 0
+  leftBaseStatIds: 000000000100000001000000
+  rightBaseStatIds: 010000000100000000000000
+  batchIndexIsOneBased: 1
+  _tickTimeUp: 1
+  groundY: -2.25
+  ground: 0
+  _useIntroSequenceFlag: 1
+  standDuration: 0.45
+  delayAfterIdle: 3

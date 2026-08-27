@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3183b8e6-343a-476e-b439-9aa9b99e82b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/1.Managers/CoreTestScripts/UnitSorter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/1.Managers/CoreTestScripts/UnitSorter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothic SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothic SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothic.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothicBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothicBold.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothicExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothicExtraBold.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothicLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/2.TestResource/Font/NanumFontSetup_TTF_GOTHIC/NanumGothicLight.ttf.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/0.PlayerFolder/1.Prefab/UI/Battle_UI_Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/0.PlayerFolder/1.Prefab/UI/Battle_UI_Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1.Managers/Audio/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1.Managers/Audio/AudioManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1.Managers/CoreTestScripts/BattleUIManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1.Managers/CoreTestScripts/BattleUIManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/1.Managers/CoreTestScripts/TurnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/1.Managers/CoreTestScripts/TurnManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/9.Scenes/PM/Card_And_Game_Test_PM.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/9.Scenes/PM/Card_And_Game_Test_PM.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/9.Scenes/SingleTestScene/Card_And_Game_Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/9.Scenes/SingleTestScene/Card_And_Game_Test.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IngameDebugConsole.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/IngameDebugConsole.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IngameDebugConsole.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/IngameDebugConsole.Runtime.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3AiYUZvSXjoB8cvvzDmdNB4Cwrd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "Merging MergedCoreBranch",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3183b8e6-343a-476e-b439-9aa9b99e82b8" name="Changes" comment="" />
+      <created>1773076875955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773076875955</updated>
+    </task>
+    <servers />
+  </component>
+</project>
